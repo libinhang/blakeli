@@ -104,7 +104,7 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/libinhang/blakeli
-  branch: gh-pages
+  branch: my-new-branch
 
 menu:
   Home: /about/index.html
